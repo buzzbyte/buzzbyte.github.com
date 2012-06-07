@@ -1,2 +1,1 @@
-buzzbyte.github.com
-===================
+Github user page
