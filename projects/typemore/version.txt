@@ -1,3 +1,3 @@
 TypeMore Version File
 STAGE:PRE_ALPHA
-VERSION:0.0.0
+VERSION:0.0.2
